@@ -1,3 +1,5 @@
+// 'use client';
+// import { Button } from '@carbon/react';
 import Image from 'next/image';
 import styles from './page.module.css';
 
